@@ -1,3 +1,7 @@
+--------------
+--POVOAMENTO--
+--------------
+
 INSERT INTO CCCOMPANY (CIPJ) 
 VALUES ('1001');
 INSERT INTO CCCOMPANY (CIPJ) 
